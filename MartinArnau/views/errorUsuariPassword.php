@@ -1,0 +1,1 @@
+<span class="error" style="display: none;">Siusplau introdueix usuari i contrassenya</span>
